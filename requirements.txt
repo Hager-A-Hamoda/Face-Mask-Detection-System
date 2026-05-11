@@ -1,4 +1,14 @@
-numpy==2.4.4
-pandas==3.0.2
-matplotlib==3.10.8
-seaborn==0.13.2
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+opencv-python
+pillow
+matplotlib
+scikit-learn
+kagglehub
+seaborn
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+boto3
